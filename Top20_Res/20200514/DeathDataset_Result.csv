@@ -1,0 +1,22 @@
+Countries,estimated end of transition phase(day),estimated end date of transition phase,estimated epidemic size (cases),7 day newly diagnosed cases error rate(%)
+World,112,2020-09-03,355435.0,11.61
+US,184,2020-11-14,128893.0,12.56
+Brazil,77,2020-07-30,29729.0,4.07
+Russia,65,2020-07-18,3547.0,22.52
+Spain,57,2020-07-10,28269.0,5.48
+United Kingdom,77,2020-07-30,38282.0,7.2
+Italy,103,2020-08-25,34819.0,0.71
+India,40,2020-06-23,3711.0,23.08
+France,58,2020-07-11,28795.0,20.23
+Germany,63,2020-07-16,8438.0,6.25
+Peru,59,2020-07-12,3714.0,29.48
+Turkey,59,2020-07-12,4381.0,4.94
+Iran,119,2020-09-10,8324.0,16.16
+Chile,34,2020-06-17,465.0,71.17
+Mexico,61,2020-07-14,9441.0,9.39
+Canada,91,2020-08-13,8347.0,33.58
+Saudi Arabia,80,2020-08-02,556.0,7.25
+Pakistan,52,2020-07-05,1240.0,20.97
+Qatar,7,2020-05-21,14.0,75.0
+Belgium,55,2020-07-08,9265.0,11.27
+Bangladesh,43,2020-06-26,485.0,29.37
